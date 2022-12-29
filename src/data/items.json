@@ -1,0 +1,25 @@
+[{
+	"id": 1,
+	"name": "Book",
+	"price": 10.99,
+	"imgUrl": "/imgs/as.jpg"
+},
+{
+	"id": 2,
+	"name": "ef",
+	"price": 5.99,
+	"imgUrl": "/imgs/cats.jpg"
+},
+{
+	"id": 3,
+	"name": "fec",
+	"price": 17.99,
+	"imgUrl": "/imgs/frog.jpg"
+},
+{
+	"id": 4,
+	"name": "efrf",
+	"price": 0.99,
+	"imgUrl": "/imgs/qw.jpg"
+}
+]
